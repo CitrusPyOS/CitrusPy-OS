@@ -1,11 +1,11 @@
-## CitrusPy-OS
+# CitrusPy-OS
 
-# License
+## License
 This project is licensed under the GNU General Public License v3.0 (GPLv3). You can freely modify, distribute, and use the code as long as you comply with the terms of the GPLv3 license.
 
 See the [LICENSE](./LICENSE) file for more details. If you did not receive a copy of the license, it can be found here: https://www.gnu.org/licenses/gpl-3.0.html
 
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 **WARNING: This software includes a web browser with no built-in security features and may be vulnerable to attacks. Use at your own risk.**
 
