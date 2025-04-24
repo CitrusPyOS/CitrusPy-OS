@@ -13,7 +13,7 @@ CitrusPy-OS is provided **"as is"**, **without warranty of any kind**, express o
 
 This software is intended for **educational and experimental purposes only**. It is **NOT recommended for production use** or for browsing the internet without proper containment.
 
-By using this software, you accept full responsibility for any outcomes.
+By using this software, you accept full responsibility for any outcomes. This is a demo, not a fully functional release.
 
 
 # Contributing
